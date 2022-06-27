@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.baev.ideanavigatejsonpath.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.baev.ideanavigatejsonpath.MyBundle
 
 class MyApplicationService {
 

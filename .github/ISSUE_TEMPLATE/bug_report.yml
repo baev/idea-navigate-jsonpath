@@ -7,15 +7,17 @@ body:
   - type: markdown
     attributes:
       value: |
-        🌟 **Welcome to Allure Report!** 🌟 \
+        🌟 **Welcome to Allure Report!** 🌟\
         \
-        👋 Hello there! We're thrilled to have you as a potential contributor to the Allure Report open-source project. 😄🎉 Whether you're an experienced developer or just starting out, we warmly welcome you to our community! \
+        👋 Hello there! Thanks for taking the time to fill out this bug report! We're thrilled to have you as a potential Allure Report open-source project contributor. 😄🎉 Whether you're an experienced developer or just starting out, we welcome you to our community warmly!\
         \
-        When creating a new issue, it's important to provide detailed and clear information. This helps our team understand and address the issue effectively. Please include specific steps to reproduce the problem or detailed suggestions for new features. The more information you provide, the better equipped we are to assist you.\
+        💡 For all the Ideas and Feature Requests, please create a [Github Discussion](https://github.com/orgs/allure-framework/discussions) first. That will allow us to discuss the proposed changes first and maybe find a better solution.\
         \
-        If you have any questions or need further assistance, you can ask in our GitHub Discussions. While English is the primary language of our community, you can use tools like Google Translate to communicate if needed. We value inclusivity and aim to create a welcoming environment for everyone.\
+        📖 When creating a new issue, providing detailed and clear information is important. This helps our team understand and address the issue effectively. 🦶 Please include specific steps to reproduce the problem and provide logs and screenshots if you have any. The more information you provide, the better equipped we are to assist you. 🚀\
         \
-        Once again, welcome to Allure Report! We're excited to have you on board. Let's work together to make software testing and reporting a breeze! 💪
+        🤔 If you have any questions or need further assistance, you can ask in our [GitHub Discussions](https://github.com/orgs/allure-framework/discussions). While English is the primary language of our community, you can use tools like Google Translate to communicate if needed. We value inclusivity and aim to create a welcoming environment for everyone.\
+        \
+        Once again, welcome to **Allure Report**! We're excited to have you on board. Let's work together to make software testing and reporting a breeze! 💪
   - type: textarea
     id: description
     attributes:
